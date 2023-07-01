@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1684611283 source:d:\c\cse-1201\tourism company management system\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdbool.h>
+	<windows.h>
+
+1685095228 source:d:\project\bus company management\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdbool.h>
+	<windows.h>
+
